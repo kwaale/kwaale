@@ -3,18 +3,18 @@
 ![Knut Waale, Full Stack Developer](https://github.com/kwaale/kwaale/blob/main/files/FullStackDeveloper.gif)
 
 ## :boom: Languages
-### <center>:star: JavaScript </center>
-### <center>:star: Java </center>
-### <center>:star: Python </center>
-### <center>:star: R </center>
+### <h3 align="center" >:star: JavaScript </h3>
+### <h3 align="center" >:star: Java </h3>
+### <h3 align="center" >:star: Python </h3>
+### <h3 align="center" >:star: R </h3>
 
 ## :boom: Skills
-### <center>:star: React </center>
-### <center>:star: Redux </center>
-### <center>:star: NodeJs </center>
-### <center>:star: Express </center>
-### <center>:star: Postgres </center>
-### <center>:star: Sequelize ORM </center>
+### <h3 align="center" >:star: React </h3>
+### <h3 align="center" >:star: Redux </h3>
+### <h3 align="center" >:star: NodeJs </h3>
+### <h3 align="center" >:star: Express </h3>
+### <h3 align="center" >:star: Postgres </h3>
+### <h3 align="center" >:star: Sequelize ORM </h3>
 
 ## :boom: [Portfolio](https://kwaale.github.io/PortaFolioWeb/)
 
