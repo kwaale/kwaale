@@ -2,7 +2,7 @@
 
 [Knut Waale, Full Stack Developer](https://github.com/kwaale/kwaale/blob/main/assets/FullStackDeveloper.gif)
 
-<img src="hhttps://github.com/kwaale/kwaale/blob/main/assets/FullStackDeveloper.gif" width="40" height="40" />
+<img src="https://github.com/kwaale/kwaale/blob/main/assets/FullStackDeveloper.gif" width="40" height="40" />
 <!--
 **kwaale/kwaale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
