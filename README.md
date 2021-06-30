@@ -7,11 +7,11 @@
 ## :boom: Portfolio
 
 ## :telephone_receiver: Contacts
-<a width="10%" href="https://www.linkedin.com/in/developer-knutwaale/"><img src="https://github.com/kwaale/kwaale/blob/main/img/Wha.png"/></a>
-<a width="10%" href="https://github.com/kwaale"><img src="https://github.com/kwaale/kwaale/blob/main/img/gitHub.png"/></a>
-<a width="10%" href="mailto:knutwaale@gmail.com?Subject=Hola Knut"><img src="https://github.com/kwaale/kwaale/blob/main/img/gmail.png"/></a>
-<a width="10%" href="https://www.linkedin.com/in/developer-knutwaale/"><img src="https://github.com/kwaale/kwaale/blob/main/img/linkein.png"/></a>
-<a width="10%" href=""><img src="https://github.com/kwaale/kwaale/blob/main/img/LogoCV.png"/></a>
+<a href="https://www.linkedin.com/in/developer-knutwaale/"><img width="10%" src="https://github.com/kwaale/kwaale/blob/main/img/Wha.png"/></a>
+<a href="https://github.com/kwaale"><img width="10%" src="https://github.com/kwaale/kwaale/blob/main/img/gitHub.png"/></a>
+<a href="mailto:knutwaale@gmail.com?Subject=Hola Knut"><img width="10%" src="https://github.com/kwaale/kwaale/blob/main/img/gmail.png"/></a>
+<a href="https://www.linkedin.com/in/developer-knutwaale/"><img width="10%" src="https://github.com/kwaale/kwaale/blob/main/img/linkein.png"/></a>
+<a href=""><img width="10%" src="https://github.com/kwaale/kwaale/blob/main/img/LogoCV.png"/></a>
 ## :boom: knutwaale@gmail.com
 
 
