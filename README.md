@@ -7,7 +7,14 @@
 ## :boom: Portfolio
 
 ## :telephone_receiver: Contacts
-<a><img src=""/></a>
+<a href="https://www.linkedin.com/in/developer-knutwaale/"><img src="https://github.com/kwaale/kwaale/blob/main/img/Wha.png"/></a>
+<a href="https://github.com/kwaale"><img src="https://github.com/kwaale/kwaale/blob/main/img/gitHub.png"/></a>
+<a href="mailto:knutwaale@gmail.com?Subject=Hola Knut"><img src="https://github.com/kwaale/kwaale/blob/main/img/gmail.png"/></a>
+<a href="https://www.linkedin.com/in/developer-knutwaale/"><img src="https://github.com/kwaale/kwaale/blob/main/img/linkein.png"/></a>
+<a href=""><img src="https://github.com/kwaale/kwaale/blob/main/img/LogoCV.png"/></a>
+## :boom: knutwaale@gmail.com
+
+
 
 
 
