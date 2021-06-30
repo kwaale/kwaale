@@ -2,25 +2,25 @@
 
 ![Knut Waale, Full Stack Developer](https://github.com/kwaale/kwaale/blob/main/files/FullStackDeveloper.gif)
 
-<table border="0">
+<table border="1" align="center">
  <tr>
     <td><b style="font-size:30px">Languages</b></td>
     <td><b style="font-size:30px">Skills</b></td>
  </tr>
  <tr>
     <td>
-        <h3 align="center" >:star: JavaScript </h3>
-        <h3 align="center" >:star: Java </h3>
-        <h3 align="center" >:star: Python </h3>
-        <h3 align="center" >:star: R </h3>
+        <h3>:star: JavaScript </h3>
+        <h3>:star: Java </h3>
+        <h3>:star: Python </h3>
+        <h3>:star: R </h3>
     </td>
     <td>
-        <h3 align="center" >:star: React </h3>
-        <h3 align="center" >:star: Redux </h3>
-        <h3 align="center" >:star: NodeJs </h3>
-        <h3 align="center" >:star: Express </h3>
-        <h3 align="center" >:star: Postgres </h3>
-        <h3 align="center" >:star: Sequelize ORM </h3>
+        <h3>:star: React </h3>
+        <h3>:star: Redux </h3>
+        <h3>:star: NodeJs </h3>
+        <h3>:star: Express </h3>
+        <h3>:star: Postgres </h3>
+        <h3>:star: Sequelize ORM </h3>
     </td>
  </tr>
 </table>
