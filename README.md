@@ -4,23 +4,23 @@
 
 <table border="1" align="center">
  <tr>
-    <td><b style="font-size:30px">Languages</b></td>
-    <td><b style="font-size:30px">Skills</b></td>
+    <td><h3 style="font-size:30px">Languages</h3></td>
+    <td><h3 style="font-size:30px">Skills</h3></td>
  </tr>
  <tr>
     <td>
-        <h3>:star: JavaScript </h3>
-        <h3>:star: Java </h3>
-        <h3>:star: Python </h3>
-        <h3>:star: R </h3>
+        <h4>:star: JavaScript </h4>
+        <h4>:star: Java </h4>
+        <h4>:star: Python </h4>
+        <h4>:star: R </h4>
     </td>
     <td>
-        <h3>:star: React </h3>
-        <h3>:star: Redux </h3>
-        <h3>:star: NodeJs </h3>
-        <h3>:star: Express </h3>
-        <h3>:star: Postgres </h3>
-        <h3>:star: Sequelize ORM </h3>
+        <h4>:star: React </h4>
+        <h4>:star: Redux </h4>
+        <h4>:star: NodeJs </h4>
+        <h4>:star: Express </h4>
+        <h4>:star: Postgres </h4>
+        <h4>:star: Sequelize ORM </h4>
     </td>
  </tr>
 </table>
