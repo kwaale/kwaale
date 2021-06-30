@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Alt Text](assets/Full stack developer.gif)
+[Knut Waale, Full Stack Developer](/home/knut/HenryR/kwaale/assets/FullStackDeveloper.gif)
 <!--
 **kwaale/kwaale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
