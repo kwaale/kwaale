@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Knut Waale, Full Stack Developer](https://github.com/kwaale/kwaale/blob/main/assets/FullStackDeveloper.gif)
+![Knut Waale, Full Stack Developer](https://github.com/kwaale/kwaale/blob/main/assets/FullStackDeveloper.gif)
 
 <img src="https://github.com/kwaale/kwaale/blob/main/assets/FullStackDeveloper.gif" width="40" height="40" />
 <!--
