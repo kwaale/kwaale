@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[Alt Text](assets/Full stack developer.gif)
 <!--
 **kwaale/kwaale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
