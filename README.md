@@ -11,7 +11,7 @@
 <a href="https://github.com/kwaale"><img width="10%" src="https://github.com/kwaale/kwaale/blob/main/img/gitHub.png"/></a>
 <a href="mailto:knutwaale@gmail.com?Subject=Hola Knut"><img width="10%" src="https://github.com/kwaale/kwaale/blob/main/img/gmail.png"/></a>
 <a href="https://www.linkedin.com/in/developer-knutwaale/"><img width="10%" src="https://github.com/kwaale/kwaale/blob/main/img/linkein.png"/></a>
-<a href=""><img width="10%" src="https://github.com/kwaale/kwaale/blob/main/img/LogoCV.png"/></a>
+<a href="https://github.com/kwaale/kwaale/raw/main/files/CV%20Knut%20Waale%20Full%20Stack%20Development.pdf"><img width="10%" src="https://github.com/kwaale/kwaale/blob/main/img/LogoCV.png"/></a>
 ## :boom: knutwaale@gmail.com
 
 
