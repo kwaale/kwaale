@@ -2,6 +2,9 @@
 
 ![Knut Waale, Full Stack Developer](https://github.com/kwaale/kwaale/blob/main/files/FullStackDeveloper.gif)
 
+
+![Skills](https://github.com/kwaale/kwaale/blob/main/files/gifSkills.gif)
+
 <table border="1" align="center">
  <tr>
     <td><h3 style="font-size:30px">Languages</h3></td>
@@ -28,7 +31,7 @@
 ## :boom: [Portfolio](https://kwaale.github.io/PortaFolioWeb/)
 
 ## :telephone_receiver: Contacts
-<a href="wa.link/umcha9"><img width="10%" src="https://github.com/kwaale/kwaale/blob/main/img/Wha.png"/></a>
+<a href="https://wa.link/umcha9"><img width="10%" src="https://github.com/kwaale/kwaale/blob/main/img/Wha.png"/></a>
 <a href="https://github.com/kwaale"><img width="10%" src="https://github.com/kwaale/kwaale/blob/main/img/gitHub.png"/></a>
 <a href="mailto:knutwaale@gmail.com?Subject=Hola Knut"><img width="10%" src="https://github.com/kwaale/kwaale/blob/main/img/gmail.png"/></a>
 <a href="https://www.linkedin.com/in/developer-knutwaale/"><img width="10%" src="https://github.com/kwaale/kwaale/blob/main/img/linkein.png"/></a>
