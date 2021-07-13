@@ -35,7 +35,7 @@
 <a href="mailto:knutwaale@gmail.com?Subject=Hola Knut"><img width="10%" src="https://github.com/kwaale/kwaale/blob/main/img/gmail.png"/></a>
 <a href="https://www.linkedin.com/in/developer-knutwaale/"><img width="10%" src="https://github.com/kwaale/kwaale/blob/main/img/linkein.png"/></a>
 
-<a href="https://github.com/kwaale/kwaale/raw/main/files/CV%20Knut%20Waale%20Full%20Stack%20Development.pdf"><img width="10%" src="https://github.com/kwaale/kwaale/blob/main/img/LogoCV.png"/></a>
+<a href="files/CV Knut Waale Full Stack Development-es.pdf"><img width="10%" src="https://github.com/kwaale/kwaale/blob/main/img/LogoCV.png"/></a>
 
 ## :boom: knutwaale@gmail.com
 ## <a href="wa.link/umcha9"> :boom: +54-911-6815-1380</a>
