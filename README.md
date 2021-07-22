@@ -30,12 +30,12 @@
 ## :boom: [Portfolio](https://kwaale.github.io/PortaFolioWeb/)
 
 ## :telephone_receiver: Contacts
-<a href="https://wa.link/umcha9"><img width="6%" src="https://github.com/kwaale/kwaale/blob/main/img/Wha.png"/></a>
-<a href="https://github.com/kwaale"><img width="6%" src="https://github.com/kwaale/kwaale/blob/main/img/gitHub.png"/></a>
-<a href="mailto:knutwaale@gmail.com?Subject=Hola Knut"><img width="6%" src="https://github.com/kwaale/kwaale/blob/main/img/gmail.png"/></a>
-<a href="https://www.linkedin.com/in/developer-knutwaale/"><img width="6%" src="https://github.com/kwaale/kwaale/blob/main/img/linkein.png"/></a>
+<a href="https://wa.link/umcha9"><img width="5%" src="https://github.com/kwaale/kwaale/blob/main/img/Wha.png"/></a>
+<a href="https://github.com/kwaale"><img width="5%" src="https://github.com/kwaale/kwaale/blob/main/img/gitHub.png"/></a>
+<a href="mailto:knutwaale@gmail.com?Subject=Hola Knut"><img width="5%" src="https://github.com/kwaale/kwaale/blob/main/img/gmail.png"/></a>
+<a href="https://www.linkedin.com/in/developer-knutwaale/"><img width="5%" src="https://github.com/kwaale/kwaale/blob/main/img/linkein.png"/></a>
 
-<a href="files/Knut Waale Full Stack Development-es.pdf"><img width="6%" src="https://github.com/kwaale/kwaale/blob/main/img/LogoCV.png"/></a>
+<a href="files/Knut Waale Full Stack Development-es.pdf"><img width="5%" src="https://github.com/kwaale/kwaale/blob/main/img/LogoCV.png"/></a>
 
 ## :boom: knutwaale@gmail.com
 ## <a href="wa.link/umcha9"> :boom: +54-911-6815-1380</a>
