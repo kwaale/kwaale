@@ -27,7 +27,7 @@
 
 ![Skills](https://github.com/kwaale/kwaale/blob/main/files/gifSkills.gif)
 
-## :boom: [Portfolio](https://kwaale.github.io/PortaFolioWeb/)
+## :boom: [Portfolio](https://kwaale.github.io/PortFolioWeb/)
 
 ## :telephone_receiver: Contacts
 <a href="https://wa.link/umcha9"><img width="5%" src="https://github.com/kwaale/kwaale/blob/main/img/Wha.png"/></a>
