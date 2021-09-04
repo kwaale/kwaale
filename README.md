@@ -28,7 +28,7 @@
 
 ![Skills](https://github.com/kwaale/kwaale/blob/main/files/gifSkills.gif)
 
-## :boom: [Portfolio](https://kwaale.github.io/PortaFolioWeb/)
+## :boom: [Portfolio](https://kwaale.github.io/PortFolioWeb/)
 
 ## :telephone_receiver: Contacts
 <a href="https://wa.link/umcha9"><img width="5%" src="https://github.com/kwaale/kwaale/blob/main/img/Wha.png"/></a>
@@ -40,4 +40,7 @@
 
 ## :boom: knutwaale@gmail.com
 ## <a href="wa.link/umcha9"> :boom: +54-911-6815-1380</a>
+<<<<<<< HEAD
 </body>
+=======
+>>>>>>> 435dd209fbe963174c12c7769f212b55ca00a249
