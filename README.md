@@ -1,4 +1,10 @@
-<body background = 'red'>
+<style>
+    body{
+        background:black
+    }
+    </style>
+
+<body>
 ### Hi there :bowtie:
 
 ![Knut Waale, Full Stack Developer](https://github.com/kwaale/kwaale/blob/main/files/FullStackDeveloper.gif)
@@ -40,7 +46,4 @@
 
 ## :boom: knutwaale@gmail.com
 ## <a href="wa.link/umcha9"> :boom: +54-911-6815-1380</a>
-<<<<<<< HEAD
 </body>
-=======
->>>>>>> 435dd209fbe963174c12c7769f212b55ca00a249
