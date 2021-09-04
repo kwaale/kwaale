@@ -1,4 +1,4 @@
-<body background = 'blue'>
+<body background = 'red'>
 ### Hi there :bowtie:
 
 ![Knut Waale, Full Stack Developer](https://github.com/kwaale/kwaale/blob/main/files/FullStackDeveloper.gif)
