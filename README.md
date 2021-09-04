@@ -1,3 +1,4 @@
+<body background = 'blue'>
 ### Hi there :bowtie:
 
 ![Knut Waale, Full Stack Developer](https://github.com/kwaale/kwaale/blob/main/files/FullStackDeveloper.gif)
@@ -39,3 +40,4 @@
 
 ## :boom: knutwaale@gmail.com
 ## <a href="wa.link/umcha9"> :boom: +54-911-6815-1380</a>
+</body>
