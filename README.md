@@ -13,6 +13,7 @@
         <h4>:star: Java </h4>
         <h4>:star: Python </h4>
         <h4>:star: R </h4>
+        <h4>:star: PL SQL Oracle </h4>
     </td>
     <td>
         <h4>:star: React </h4>
@@ -21,7 +22,6 @@
         <h4>:star: Express </h4>
         <h4>:star: Postgres </h4>
         <h4>:star: Sequelize ORM </h4>
-        <h4>:star: PL SQL Oracle </h4>
     </td>
  </tr>
 </table>
