@@ -21,6 +21,7 @@
         <h4>:star: Express </h4>
         <h4>:star: Postgres </h4>
         <h4>:star: Sequelize ORM </h4>
+        <h4>:star: PL SQL Oracle </h4>
     </td>
  </tr>
 </table>
