@@ -1,6 +1,6 @@
 ### Hi there :bowtie:
 
-![Knut Waale, Full Stack Developer](https://github.com/kwaale/kwaale/blob/main/files/FullStackDeveloper.gif)
+![Knut Waale, Full Stack Developer](https://github.com/kwaale/kwaale/blob/main/files/presentacion.gif)
 
 <table border="1" align="center">
  <tr>
@@ -10,6 +10,7 @@
  <tr>
     <td>
         <h4>:star: JavaScript </h4>
+        <h4>:star: TypeScript </h4>
         <h4>:star: Java </h4>
         <h4>:star: Python </h4>
         <h4>:star: R </h4>
