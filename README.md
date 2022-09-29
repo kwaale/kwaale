@@ -37,7 +37,7 @@
 <a href="mailto:knutwaale@gmail.com?Subject=Hola Knut"><img width="5%" src="https://github.com/kwaale/kwaale/blob/main/img/gmail.png"/></a>
 <a href="https://www.linkedin.com/in/developer-knutwaale/"><img width="5%" src="https://github.com/kwaale/kwaale/blob/main/img/linkein.png"/></a>
 
-<a href="https://www.canva.com/design/DADqjSbQMUg/1MDFMYNpdXKCVUpNyDy-rA/view?utm_content=DADqjSbQMUg&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel" target="_blank"><img width="5%" src="https://github.com/kwaale/kwaale/blob/main/img/LogoCV.png"/></a>
+<a href="https://www.canva.com/design/DADqjSbQMUg/1MDFMYNpdXKCVUpNyDy-rA/view?utm_content=DADqjSbQMUg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"><img width="5%" src="https://github.com/kwaale/kwaale/blob/main/img/LogoCV.png"/></a>
 
 ## :boom: knutwaale@gmail.com
 ## <a href="wa.link/umcha9"> :boom: +54-911-6815-1380</a>
